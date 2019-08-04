@@ -1,0 +1,32 @@
+[
+  {
+    "coord":"-124",
+    "category":"C228T",
+    "value":2374
+  },
+  {
+    "coord":"-150",
+    "category":"250_254delinsTTCCT",
+    "value":716
+  },
+  {
+    "coord":"24",
+    "category":"missense_variant",
+    "value":1
+  },
+  {
+    "coord":"26",
+    "category":"missense_variant",
+    "value":1
+  },
+  {
+    "coord":"5",
+    "category":"missense_variant",
+    "value":1
+  },
+  {
+    "coord":"70-71",
+    "category":"inframe_deletion",
+    "value":1
+  }
+]
